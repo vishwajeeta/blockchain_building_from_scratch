@@ -1,0 +1,1 @@
+### blockchain is immutable,sequential chain of records called Blocks.They contain transactions,files or any data you like,really.They are chained together using hashes.
